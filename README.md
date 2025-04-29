@@ -7,5 +7,4 @@ ber of epochs），详见–help。模型会保存在 validation 时准确率最
 用于之后的 test.py。
 5. 运行 python test.py –model ./model_params/model.pkl，执行测试。可以从训练好的模型地址处下载
 Model.pkl 至本地，根据对应地址设置参数进行测试。
-6
 6. 运行 python visual_model.py –model ./model_params/model.pkl，执行参数可视化
